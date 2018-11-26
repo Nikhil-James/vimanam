@@ -1,0 +1,22 @@
+NANO(<250gm)
+
+Required Permissions: NIL
+Regulations: 50ft Height Restrction
+
+MICRO(>250gm<2kg)
+Required Permissions: Security clearance, Unique Identification Number, Approval Time(2 days), Local Police Permission.
+Regulations: 200ft Height Restriction
+VLoS and Day Operations: Allowed
+
+MINI & ABOVE(>2kg)
+Required Permissions: Security clearance, Unique Identification Number, Unmanned Aircraft Operator Permit, Remote pilot approval requirement, Approval Time(2-7 days),Flight plan, ADC/FIC, Local Police Permission.
+Regulations: 200ft Height Restriction
+VLoS and Day Operations: Allowed
+
+MODEL AIRCRAFT,MTOW(<2kg)
+
+Required Permissions: NIL
+Regulations: 200ft Height Restrction
+VLoS and Day Operations: Allowed
+
+
