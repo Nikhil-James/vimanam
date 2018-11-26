@@ -19,3 +19,21 @@ Our skilled repair engineers can help get your drone back in the air. We thoroug
 
 INSPECTIONS/ MONITORING:
 Drone inspection solutions are at least 4x faster than traditional climbing and inspection methods.High definition drone videos make way for real-time identification of potential problems through cost-effective automated surveillance and monitoring of areas that are difficult to reach like drilling rigs, oil pipe-lines etc.
+TESTIMONIALS
+1. I used to see the drones fly and think ‘they must be mad’, until the same drone brought me blood and saved my life.
+
+Alice Mutimutuje, Mother, Rwanda
+.“With drone solutions from  Vimanam we could simultaneously plan for
+                                    fulfilling
+                                    RPO obligations as well as
+                                    maximise returns for our clients in terms of solar panel asset utilisation. The
+                                    drone
+                                    advantage over conventional
+                                    means comes down to quick turnaround times and rich data but the differentiator is
+                                    the
+                                    delivery of these insights
+                                    through their web based collaborative platform
+3."When something is important enough, you do it even if the odds are not in your favor."
+    Elon Musk
+ 4.Drones photograph, prospect and advertise real estate from golf courses to skyscrapers; they also monitor construction in progress. Peter Diamandis
+
