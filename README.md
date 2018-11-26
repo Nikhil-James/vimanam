@@ -6,9 +6,8 @@ ARVEEN RAJ (CEO)
 section 1:
 Vimanam, is Arveen’s brain child which was established as a start-up to capture the niche market of aerial photography and filming. Having completed his aeronautical Engineering from Anna University along with certifications in Drone pilot of aerial vehicles, 
 section 2:
-
-
-
+Arveen from the beginning has been focused and very passionate about this industry and his profession. This is how the idea of Vimanam – a company specializing in drone photography was born!
+The professional aerial photographers make use of ready-to-fly aerial drones to capture mind-blowing shots by combining GPS programmed flight paths with automatic camera targeting.The possibilities with a drone does not limit to just videotaping or taking magnificent pictures but are extended to many more options. 
 
 Ariel photograhy:
 Our experienced pilots are capable of flying our agile drones close to difficult locations, day or night while maintaining the highest standards in safety and operation. Drone Photography Services are pioneering commercial drone photography flying up to 400ft, turning new ideas for aerial imagery into stunning reality.
